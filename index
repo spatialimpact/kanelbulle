@@ -86,7 +86,7 @@ map.on('load', () => {
     source: 'bullar',
     layout: {
       'icon-image': 'bulle',
-      'icon-size': 1.0,
+      'icon-size': 50.0,
       'icon-allow-overlap': true
     }
   });
